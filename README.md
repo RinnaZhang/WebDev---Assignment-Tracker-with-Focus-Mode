@@ -8,7 +8,7 @@ In my experience, different professors use various platforms to assign tasks, wh
 ## Features
 - **Assignment Management**: Add, edit, and delete assignments with specific due dates.
 - **Persistent Storage**: Assignments are saved in the browser’s local storage, so they persist even after refreshing the page.
-- **Focus Mode**: A 1-hour countdown timer for focused study sessions, displayed prominently in the middle of the screen.
+- **Focus Mode**: A 25-min countdown timer for focused study sessions, displayed prominently in the middle of the screen.
 - **Motivational Quotes**: A new quote fetched from the ZenQuotes API each time the app is loaded.
 
 ## Setup and Run Instructions
