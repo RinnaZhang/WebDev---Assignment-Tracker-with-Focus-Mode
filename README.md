@@ -20,7 +20,7 @@ In my experience, different professors use various platforms to assign tasks, wh
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/RinnaZhang/WebDev---Assignment-Tracker-with-Focus-Mode
 
 2. Navigate to the project directory:
    ```bash
