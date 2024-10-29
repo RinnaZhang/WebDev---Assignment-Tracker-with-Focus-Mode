@@ -24,7 +24,7 @@ In my experience, different professors use various platforms to assign tasks, wh
 
 2. Navigate to the project directory:
    ```bash
-   cd webdev
+   cd WebDev---Assignment-Tracker-with-Focus-Mode
 
 3. Install dependencies:
    ```bash
@@ -33,7 +33,7 @@ In my experience, different professors use various platforms to assign tasks, wh
 2. Run the application:
    ```bash
    npm start
-   The app will run on “http://localhost:3000”.
+   (The app will run on “http://localhost:3000”.)
 
 ## API Information
 ZenQuotes API: The app uses the ZenQuotes API to fetch random motivational quotes to motivate user (and myself) to work harder. 
